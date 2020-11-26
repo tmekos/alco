@@ -3,7 +3,7 @@
 You can use the [editor on GitHub](https://github.com/tmekos/alco/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/submissions/19218/versions/1/previews/matgraph/samples/html/coloring_02.png
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/submissions/19218/versions/1/previews/matgraph/samples/html/coloring.html](src) and ![https://github.com/tmekos/images/alcograph.png](src)
+[link](src) and ![img](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
