@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[link](src) and ![Image](src)
+[https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/submissions/19218/versions/1/previews/matgraph/samples/html/coloring.html](src) and ![https://github.com/tmekos/images/alcograph.png](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
